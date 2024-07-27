@@ -10,7 +10,7 @@ G-Weather-Forecast is a simple web application that allows users to search and d
 
 + Search for a city or country and display weather information:
   + Show the weather includes temperature, wind speed, humidity... for present day.
-  + Show forecast 4 days later and more (load more).
+  + Show forecast 4 days later.
 
 <img width="1514" alt="Ảnh màn hình 2024-07-27 lúc 21 36 09" src="https://github.com/user-attachments/assets/7e0f4bb8-cad9-4b98-ab57-588a7334b874">
 
