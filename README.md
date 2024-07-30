@@ -91,3 +91,6 @@ python manage.py runserver
 ## Video demo
 [https://youtu.be/y5yhVSa2fpg](https://youtu.be/y5yhVSa2fpg)
 
+## Wed deloy
+[https://weather-woad-psi.vercel.app/](https://weather-woad-psi.vercel.app/)
+
